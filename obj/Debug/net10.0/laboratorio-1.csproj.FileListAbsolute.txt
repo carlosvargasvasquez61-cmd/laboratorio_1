@@ -1,0 +1,14 @@
+C:\F. programacion\cshar\notas\laboratorio-1\bin\Debug\net10.0\laboratorio-1.exe
+C:\F. programacion\cshar\notas\laboratorio-1\bin\Debug\net10.0\laboratorio-1.deps.json
+C:\F. programacion\cshar\notas\laboratorio-1\bin\Debug\net10.0\laboratorio-1.runtimeconfig.json
+C:\F. programacion\cshar\notas\laboratorio-1\bin\Debug\net10.0\laboratorio-1.dll
+C:\F. programacion\cshar\notas\laboratorio-1\bin\Debug\net10.0\laboratorio-1.pdb
+C:\F. programacion\cshar\notas\laboratorio-1\obj\Debug\net10.0\laboratorio-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\F. programacion\cshar\notas\laboratorio-1\obj\Debug\net10.0\laboratorio-1.AssemblyInfoInputs.cache
+C:\F. programacion\cshar\notas\laboratorio-1\obj\Debug\net10.0\laboratorio-1.AssemblyInfo.cs
+C:\F. programacion\cshar\notas\laboratorio-1\obj\Debug\net10.0\laboratorio-1.csproj.CoreCompileInputs.cache
+C:\F. programacion\cshar\notas\laboratorio-1\obj\Debug\net10.0\laboratorio-1.dll
+C:\F. programacion\cshar\notas\laboratorio-1\obj\Debug\net10.0\refint\laboratorio-1.dll
+C:\F. programacion\cshar\notas\laboratorio-1\obj\Debug\net10.0\laboratorio-1.pdb
+C:\F. programacion\cshar\notas\laboratorio-1\obj\Debug\net10.0\laboratorio-1.genruntimeconfig.cache
+C:\F. programacion\cshar\notas\laboratorio-1\obj\Debug\net10.0\ref\laboratorio-1.dll
